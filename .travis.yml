@@ -20,7 +20,7 @@ install:
   - npm install -g truffle
 
   - npm install -g coveralls
-  - npm install -g zeppelin-solidity@1.5.0
+  - npm install -g openzeppelin-solidity
 
   - npm install
 
