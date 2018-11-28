@@ -24,7 +24,7 @@
 
 
 
-    "openzeppelin-solidity": "1.5.0",
+    "openzeppelin-solidity": "^1.12.0",
 
 
 
